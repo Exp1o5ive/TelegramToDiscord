@@ -1,7 +1,7 @@
 # TelegramToDiscord
 (Python3)
 
-Automatically transfer Telegram posts to Discord
+Automatically forward Telegram posts to Discord
 
 Requirements:
 
